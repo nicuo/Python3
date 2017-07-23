@@ -1,2 +1,5 @@
 pip install sqlalchemy
 sudo apt-get install python3-sqlalchemy
+ 
+sudo apt-get install redis-server
+sudo apt-get install python3-redis
