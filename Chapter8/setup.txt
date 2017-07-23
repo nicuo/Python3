@@ -1,0 +1,2 @@
+pip install sqlalchemy
+sudo apt-get install python3-sqlalchemy
